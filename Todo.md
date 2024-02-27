@@ -1,5 +1,5 @@
 # TODO
 
-- [ ] UML (busy)
-- [ ] Klasse
-- [ ] ...
+- [ ] UML
+- [ ] Klassen
+- [ ] Code
